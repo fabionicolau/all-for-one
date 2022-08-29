@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
 <p>Segundo projeto do módulo 3 - Back-end, da <a href="https://betrybe.com" target="_blank">Trybe!</a></p>
-<p>Dessa vez foi o projeto All for one. O desafio foi desenvolver um CRUD com querysfiltrar, criar, atualizar e deletar dados usando o mySQL.</p>
+<p>Dessa vez foi o projeto All for one. O desafio foi desenvolver um CRUD com querys para filtrar, criar, atualizar e deletar dados usando o mySQL.</p>
 
 <h1>Tecnologias utilizadas</h1>
 
